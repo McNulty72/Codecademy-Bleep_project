@@ -40,7 +40,7 @@ void bleep(std::string word, std::string &text) {
         }
                 
     }
-    std::cout << temp << "\n";
+    
   }
 
 }
